@@ -1,0 +1,16 @@
+{
+  "name": "trivium",
+  "version": "1.0.0",
+  "description": "An implementation of Trivium cipher in Javascript",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitwise": "^2.1.0",
+    "util": "^0.12.4"
+  }
+}
